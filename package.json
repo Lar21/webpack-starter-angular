@@ -63,7 +63,7 @@
     "webpack-merge": "^0.14.0"
   },
   "dependencies": {
-    "angular": "1.5.7",
+    "angular": "1.8.0",
     "angular-sanitize": "1.5.7",
     "angular-schema-form": "0.8.13",
     "angular-schema-form-bootstrap": "0.2.0",
